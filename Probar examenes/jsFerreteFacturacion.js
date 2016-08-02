@@ -12,9 +12,7 @@ function Sumar ()
 }
 function Promedio () 
 {
-	var importe=prompt("Colocar valor de importe");
 	
-	var impuesto=parseInt(importe*1.21);
 }
 function PrecioFinal () 
 {
